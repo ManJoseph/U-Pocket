@@ -1,4 +1,5 @@
 # U-Pocket
+<img width="1878" height="910" alt="image" src="https://github.com/user-attachments/assets/e911b09a-7e20-42ab-b463-50c736094f7e" />
 
 U-Pocket is a modern, student-centric digital wallet system designed for campus life. It bridges the gap between traditional banking and campus services, allowing students to manage their finances, pay for essentials, and transfer funds with speed and security.
 
