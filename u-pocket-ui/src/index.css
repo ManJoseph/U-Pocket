@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+:root {
+  background-color: #FFFFFF;
+  color: #2D2D2D;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@theme {
+  --color-primary-white: #FFFFFF;
+  --color-primary-red: #D2302C;
+  --color-accent-yellow: #FFCC00;
+  --color-neutral-dark: #2D2D2D;
+}
+
+@utility scrim-blur {
+  backdrop-filter: blur(12px);
+  -webkit-mask-image: linear-gradient(to bottom, transparent, black);
+  mask-image: linear-gradient(to bottom, transparent, black);
+}

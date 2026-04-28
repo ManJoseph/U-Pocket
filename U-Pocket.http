@@ -1,0 +1,6 @@
+@U_Pocket_HostAddress = http://localhost:5251
+
+GET {{U_Pocket_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
